@@ -1,0 +1,990 @@
+{
+  "languages": [
+    "PT-BR",
+    "ES"
+  ],
+  "topics": [
+    {
+      "id": "1",
+      "weight": 25.0,
+      "title": {
+        "PT-BR": "Princípios Gerais",
+        "ES": "Principios generales"
+      },
+      "groups": [
+        {
+          "id": "1.1",
+          "title": {
+            "PT-BR": "Segurança do Trabalho",
+            "ES": "Seguridade Laboral"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "1.1.1",
+              "title": {
+                "PT-BR": "EPIs Disponíveis",
+                "ES": "Personal (EPP) disponible"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "1.1.2",
+              "title": {
+                "PT-BR": "Medidas de proteção contra incendio",
+                "ES": "Medidas de protección contra incendios"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "1.1.3",
+              "title": {
+                "PT-BR": "Cilindros de gás protegidos",
+                "ES": "Cilindros de gas protegidos"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "1.1.4",
+              "title": {
+                "PT-BR": "Proteção contra quedas",
+                "ES": "Protección contra caídas"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "1.1.5",
+              "title": {
+                "PT-BR": "Exames laborais (eletrog.)",
+                "ES": "Exames laborais (eletrog.)"
+              },
+              "weight": 20.0
+            }
+          ]
+        },
+        {
+          "id": "1.2",
+          "title": {
+            "PT-BR": "Qualificação do pessoal",
+            "ES": "Cualificaciones del personal"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "1.2.1",
+              "title": {
+                "PT-BR": "Qualificação do pessoal de solda disponível\n# Certificado disponível\n# Amostras de solda\n# Qualificação do operador para solda orbital",
+                "ES": "Cualificación del personal de soldadura disponible\n# Certificado disponible\n# Muestras de soldadura\n# Cualificación del operador para soldadura orbital"
+              },
+              "weight": 50.0
+            },
+            {
+              "id": "1.2.2",
+              "title": {
+                "PT-BR": "Qualificação do supervisor de soldadura disponível\n# Qualificação\n# Inspetor visual certificado nível 1/2",
+                "ES": "Cualificación del supervisor de soldadura disponible\n# Cualificación\n# Inspector visual certificado nivel 1/2"
+              },
+              "weight": 40.0
+            },
+            {
+              "id": "1.2.3",
+              "title": {
+                "PT-BR": "Supervisor disponível",
+                "ES": "Supervisor disponible"
+              },
+              "weight": 10.0
+            }
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": {
+            "PT-BR": "Ferramentas Gerais",
+            "ES": "Herramientas generales"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "1.3.1",
+              "title": {
+                "PT-BR": "Plataformas elevatórias, empilhadeiras industriais, etc. (em número e dimensões suficientes)",
+                "ES": "Plataformas elevadoras, carretillas elevadoras industriales, etc. (en número y dimensiones suficientes)"
+              },
+              "weight": 30.0
+            },
+            {
+              "id": "1.3.2",
+              "title": {
+                "PT-BR": "Área de trabalho protegida disponível",
+                "ES": "Zona de trabajo protegida disponible"
+              },
+              "weight": 30.0
+            },
+            {
+              "id": "1.3.3",
+              "title": {
+                "PT-BR": "Ferramentas de montagem (caixas de ferramentas, extensões, etc.)",
+                "ES": "Herramientas de montaje (cajas de herramientas, alargadores, etc.)"
+              },
+              "weight": 40.0
+            }
+          ]
+        },
+        {
+          "id": "1.4",
+          "title": {
+            "PT-BR": "Organização do lugar de trabalho",
+            "ES": "Organización del lugar de trabajo"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "1.4.1",
+              "title": {
+                "PT-BR": "Limpeza e ordem do lugar de trabalho",
+                "ES": "Limpieza y orden en el lugar de trabajo"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "1.4.2",
+              "title": {
+                "PT-BR": "Separação de resíduos",
+                "ES": "Separación de residuos"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "1.4.3",
+              "title": {
+                "PT-BR": "Manipulação de materiais e ferramentas",
+                "ES": "Manipulación de materiales y herramientas"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "1.4.4",
+              "title": {
+                "PT-BR": "Aparência e comportamento em relação ao cliente",
+                "ES": "Apariencia y comportamiento hacia el cliente"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "1.4.5",
+              "title": {
+                "PT-BR": "Aparência e comportamento em relação aos prestadores de serviços, trabalhadores temporários e KRONES",
+                "ES": "Apariencia y comportamiento hacia los proveedores de servicios, trabajadores temporales y KRONES"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "1.4.6",
+              "title": {
+                "PT-BR": "Pessoa de contacto disponível (pelo menos uma) (fala inglês)",
+                "ES": "Persona de contacto disponible (al menos una)(Habla inglés)"
+              },
+              "weight": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "weight": 10.0,
+      "title": {
+        "PT-BR": "Âmbito do fornecimento e documentos",
+        "ES": "Alcance del suministro y documentos"
+      },
+      "groups": [
+        {
+          "id": "2.1",
+          "title": {
+            "PT-BR": "Documentos",
+            "ES": "Documentos"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "2.1.1",
+              "title": {
+                "PT-BR": "Especificações técnicas",
+                "ES": "Especificaciones técnicas"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "2.1.2",
+              "title": {
+                "PT-BR": "Plano de tubulação",
+                "ES": "Plano de tuberías"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "2.1.3",
+              "title": {
+                "PT-BR": "Diagrama de fluxo",
+                "ES": "Diagrama de flujo"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "2.1.4",
+              "title": {
+                "PT-BR": "Lista de materiais",
+                "ES": "Lista de materiales"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "2.1.5",
+              "title": {
+                "PT-BR": "Normas de soldagem Normas do grupo",
+                "ES": "Normas de soldadura Normas del grupo"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "2.1.6",
+              "title": {
+                "PT-BR": "Documentação de saldagem (modelo a ser preenchido na obra)",
+                "ES": "Documentación de soldadura (plantilla para completar en obra)"
+              },
+              "weight": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "weight": 10.0,
+      "title": {
+        "PT-BR": "Tecnologia de soldagem",
+        "ES": "Tecnología de soldadura"
+      },
+      "groups": [
+        {
+          "id": "3.1",
+          "title": {
+            "PT-BR": "Ferramentas",
+            "ES": "Herramientas"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "3.1.1",
+              "title": {
+                "PT-BR": "Máquina de soldar WIG/TIG",
+                "ES": "Máquina de soldar WIG/TIG"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "3.1.2",
+              "title": {
+                "PT-BR": "Jogo de Mangueiras",
+                "ES": "Juego de mangueras"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "3.1.3",
+              "title": {
+                "PT-BR": "Bocal cerâmico adequado",
+                "ES": "Boquillas de quemador adecuadas"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "3.1.4",
+              "title": {
+                "PT-BR": "Eletrodos de tungstenio",
+                "ES": "Electrodos de tungsteno"
+              },
+              "weight": 5.0
+            },
+            {
+              "id": "3.1.5",
+              "title": {
+                "PT-BR": "Serra para tubos",
+                "ES": "Sierra para tubos"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "3.1.6",
+              "title": {
+                "PT-BR": "Mesa de trabalho",
+                "ES": "Mesa de trabajo"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "3.1.7",
+              "title": {
+                "PT-BR": "Auxiliares de Formação/Plugues",
+                "ES": "Ayudas/amortiguadores de conformado"
+              },
+              "weight": 5.0
+            },
+            {
+              "id": "3.1.8",
+              "title": {
+                "PT-BR": "Medidor de oxigênio residual",
+                "ES": "Medidor de oxígeno residual"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "3.1.9",
+              "title": {
+                "PT-BR": "Máquinas de soldagem orbital",
+                "ES": "Máquinas de soldar orbitales"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "3.1.10",
+              "title": {
+                "PT-BR": "Máquina de solda de pinos",
+                "ES": "Máquina de soldar pernos"
+              },
+              "weight": 5.0
+            },
+            {
+              "id": "3.1.11",
+              "title": {
+                "PT-BR": "Pasta decapante",
+                "ES": "Pasta decapante"
+              },
+              "weight": 5.0
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": {
+            "PT-BR": "Armazenamento do produto acabado",
+            "ES": "Almacenamiento del producto terminado"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "3.2.1",
+              "title": {
+                "PT-BR": "Separação de material branco e preto",
+                "ES": "Separación de material blanco y negro"
+              },
+              "weight": 70.0
+            },
+            {
+              "id": "3.2.2",
+              "title": {
+                "PT-BR": "Localização de armazenamento coberto ou ao ar livre, no corredor",
+                "ES": "Ubicación de almacenamiento cubierta o al aire libre, en el pasillo"
+              },
+              "weight": 30.0
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": {
+            "PT-BR": "Gás de soldagem",
+            "ES": "Gas de soldadura"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "3.3.1",
+              "title": {
+                "PT-BR": "Pureza e conformidade do gás de soldagem com comprovante",
+                "ES": "Pureza y conformidad del gas de soldadura con comprobante"
+              },
+              "weight": 60.0
+            },
+            {
+              "id": "3.3.2",
+              "title": {
+                "PT-BR": "Armazenamento dos cilindros de gás",
+                "ES": "Almacenamiento de cilindros de gas"
+              },
+              "weight": 40.0
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": {
+            "PT-BR": "Material de adição",
+            "ES": "Material de aporte"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "3.4.1",
+              "title": {
+                "PT-BR": "Certificados do material de adição",
+                "ES": "Certificados del material de aporte"
+              },
+              "weight": 60.0
+            },
+            {
+              "id": "3.4.2",
+              "title": {
+                "PT-BR": "Armazenamento do material de adição",
+                "ES": "Almacenamiento del material de aporte"
+              },
+              "weight": 40.0
+            }
+          ]
+        },
+        {
+          "id": "3.5",
+          "title": {
+            "PT-BR": "Qualidade da Soldagem",
+            "ES": "Calidad de la soldadura"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "3.5.1",
+              "title": {
+                "PT-BR": "Descoloração",
+                "ES": "Decoloración"
+              },
+              "weight": 35.0
+            },
+            {
+              "id": "3.5.2",
+              "title": {
+                "PT-BR": "Qualidade da soldadura em conformidade com as especificações",
+                "ES": "Calidad de la soldadura conforme a las especificaciones"
+              },
+              "weight": 35.0
+            },
+            {
+              "id": "3.5.3",
+              "title": {
+                "PT-BR": "Pós-tratamento da soldagem (decapagem, polimento, jateamento, etc.)",
+                "ES": "Postratamiento de la soldadura (decapado, pulido, granallado, etc.)"
+              },
+              "weight": 30.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "weight": 10.0,
+      "title": {
+        "PT-BR": "Construção da linha",
+        "ES": "Construcción de la ruta"
+      },
+      "groups": [
+        {
+          "id": "4.1",
+          "title": {
+            "PT-BR": "Dimensionamento da linha",
+            "ES": "Dimensionamiento de la ruta"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "4.1.1",
+              "title": {
+                "PT-BR": "Rotas da tubulação corretamente construidas",
+                "ES": "Ruta de tuberías correctamente construido"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.2",
+              "title": {
+                "PT-BR": "Fixação de suportes de piso, suportes de parede e estrutura de cobertura projetada de acordo com o tipo e a ocupação",
+                "ES": "Fijación de soportes de suelo, soportes de pared y estructura de cubierta diseñada según el tipo y la ocupación"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.3",
+              "title": {
+                "PT-BR": "Ancoragens no solo ou na parede com dimensões suficientes",
+                "ES": "Anclajes de suelo o parede suficientemente dimensionados"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.4",
+              "title": {
+                "PT-BR": "Distâncias entre suportes de aproximadamente 3 m mantidas",
+                "ES": "Distancias entre soportes de aprox. 3 m mantenidos"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.5",
+              "title": {
+                "PT-BR": "Suportes presentes/corretos",
+                "ES": "Pendiente presente/correcta"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.6",
+              "title": {
+                "PT-BR": "Compensação de dilatação térmica",
+                "ES": "Compensación de dilatación térmica"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.7",
+              "title": {
+                "PT-BR": "Drenos de condensação disponíveis",
+                "ES": "Drenajes de condensado disponibles"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.8",
+              "title": {
+                "PT-BR": "Sacos/linhas de abastecimento disponíveis - esvaziamento previsto",
+                "ES": "Bolsas/líneas de suministro disponibles - vaciado previsto"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.9",
+              "title": {
+                "PT-BR": "Alturas de passagem mantidas",
+                "ES": "Alturas de paso mantenidas"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "4.1.10",
+              "title": {
+                "PT-BR": "Fixação de tubos\n# Suporte fixo para tubos\n# Braçadeira deslizante para tubos\n# Braçadeira deslizante para água fria",
+                "ES": "Fijación de tuberías\n# Soporte fijo para tubería\n# Abrazadera deslizante para tubería\n# Abrazadera deslizante para agua fría"
+              },
+              "weight": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "weight": 10.0,
+      "title": {
+        "PT-BR": "Construção",
+        "ES": "Construcíon"
+      },
+      "groups": [
+        {
+          "id": "5.1",
+          "title": {
+            "PT-BR": "Identificação das tubulações",
+            "ES": "Identificación de tuberías"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "5.1.1",
+              "title": {
+                "PT-BR": "Marcação presente",
+                "ES": "Marcado presente"
+              },
+              "weight": 25.0
+            },
+            {
+              "id": "5.1.2",
+              "title": {
+                "PT-BR": "Distancias mantidas",
+                "ES": "Distancias mantenidas"
+              },
+              "weight": 25.0
+            },
+            {
+              "id": "5.1.3",
+              "title": {
+                "PT-BR": "Rotulado no idioma nacional/inglês",
+                "ES": "Etiquetado en idioma nacional/inglés"
+              },
+              "weight": 25.0
+            },
+            {
+              "id": "5.1.4",
+              "title": {
+                "PT-BR": "Etiquetagem correta no meio correspondente",
+                "ES": "Etiquetado correcto en el medio correspondiente"
+              },
+              "weight": 25.0
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": {
+            "PT-BR": "Marcação CE",
+            "ES": "Marcado CE"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "5.2.1",
+              "title": {
+                "PT-BR": "Marcação colocada de acordo com a diretiva",
+                "ES": "Marcado colocado de acuerdo con la directiva"
+              },
+              "weight": 40.0
+            },
+            {
+              "id": "5.2.2",
+              "title": {
+                "PT-BR": "Informação mínima disponível",
+                "ES": "Información mínima disponible"
+              },
+              "weight": 30.0
+            },
+            {
+              "id": "5.2.3",
+              "title": {
+                "PT-BR": "Protegido contra a remoção não autorizada",
+                "ES": "Protegido contra la extracción no autorizada"
+              },
+              "weight": 30.0
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": {
+            "PT-BR": "Accessórios",
+            "ES": "Accessórios"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "5.3.1",
+              "title": {
+                "PT-BR": "Certificados disponiveis",
+                "ES": "Certificados disponibles"
+              },
+              "weight": 40.0
+            },
+            {
+              "id": "5.3.2",
+              "title": {
+                "PT-BR": "Dispositivo de segurança contra sobrepressão não intencional presente\n# Descarga segura de meios de escape\"",
+                "ES": "Dispositivo de segurança contra sobrepressão não intencional presente\n# Descarga segura de meios de escape\""
+              },
+              "weight": 30.0
+            },
+            {
+              "id": "5.3.3",
+              "title": {
+                "PT-BR": "\"Válvulas instaladas de acordo com o Diagrama\n# Direção do fluxo\n# Localização da instalação\n# Vedação\"",
+                "ES": "Válvulas instaladas según el caudal Diagrama\n# Dirección del flujo\n# Ubicación de la instalación\n# Sellado"
+              },
+              "weight": 30.0
+            }
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": {
+            "PT-BR": "Isolamento",
+            "ES": "Aislamiento"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "5.4.1",
+              "title": {
+                "PT-BR": "Isolamento de acordo com as especificações\n# Isolamento térmico\n# Isolamento contra o frio\n# Isolamento contra o calor/frio\n# Proteção contra contato",
+                "ES": "Aislamiento según especificaciones\n# Aislamiento térmico\n# Aislamiento contra el frío\n# Aislamiento térmico/contra el frío\n# Protección de contacto"
+              },
+              "weight": 40.0
+            },
+            {
+              "id": "5.4.2",
+              "title": {
+                "PT-BR": "Revestimento instalado profissionalmente e corretamente",
+                "ES": "Revestimiento instalado profesionalmente y correctamente"
+              },
+              "weight": 30.0
+            },
+            {
+              "id": "5.4.3",
+              "title": {
+                "PT-BR": "As distâncias entre tubos isolados são mantidas de acordo com a norma DIN 4140",
+                "ES": "Se mantienen las distancias entre tuberías aisladas según DIN 4140"
+              },
+              "weight": 30.0
+            }
+          ]
+        },
+        {
+          "id": "5.5",
+          "title": {
+            "PT-BR": "Proteção contra a corrosão",
+            "ES": "Protección contra la corrosión"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "5.5.1",
+              "title": {
+                "PT-BR": "Presença da primeira camada de anticorrosivo (aprox. 20 µm - 40 µm)",
+                "ES": "Presencia de la primera capa de imprimación (aprox. 20 µm - 40 µm)"
+              },
+              "weight": 30.0
+            },
+            {
+              "id": "5.5.2",
+              "title": {
+                "PT-BR": "Soldagem e acessórios pretos repintados",
+                "ES": "Soldaduras y accesorios negros repintados"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "5.5.3",
+              "title": {
+                "PT-BR": "Espessura total da camada nominal: 240 µm",
+                "ES": "Espesor total de la capa objetivo: 240 µm"
+              },
+              "weight": 30.0
+            },
+            {
+              "id": "5.5.4",
+              "title": {
+                "PT-BR": "Tempo de secagem de acordo com as instruções do fabricante",
+                "ES": "Tiempo de secado según las instrucciones del fabricante"
+              },
+              "weight": 20.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "weight": 15.0,
+      "title": {
+        "PT-BR": "Testes e protocolos",
+        "ES": "Pruebas y protocolos"
+      },
+      "groups": [
+        {
+          "id": "6.1",
+          "title": {
+            "PT-BR": "Ferramentas",
+            "ES": "Herramientas"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "6.1.1",
+              "title": {
+                "PT-BR": "Endoscopio disponivel",
+                "ES": "Endoscopio disponible"
+              },
+              "weight": 25.0
+            },
+            {
+              "id": "6.1.2",
+              "title": {
+                "PT-BR": "Equipamento de teste de pressão disponível",
+                "ES": "Equipo de prueba de presión"
+              },
+              "weight": 25.0
+            },
+            {
+              "id": "6.1.3",
+              "title": {
+                "PT-BR": "Ferramentas para inspeção visual direta (espelho, lâmpada, manômetro de soldagem, etc.)",
+                "ES": "Herramientas para inspección visual directa (espejo, lámpara, manómetro de soldadura, etc.)"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "6.1.4",
+              "title": {
+                "PT-BR": "Certificados de calibração de ferramentas",
+                "ES": "Certificados de calibración de herramientas"
+              },
+              "weight": 25.0
+            },
+            {
+              "id": "6.1.5",
+              "title": {
+                "PT-BR": "Medidor de espessura do revestimento",
+                "ES": "Espesor del revestimiento Calibre"
+              },
+              "weight": 10.0
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": {
+            "PT-BR": "Métodos de ensaio não destrutivos",
+            "ES": "Métodos de ensayo no destructivo"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "6.2.1",
+              "title": {
+                "PT-BR": "Ensaios de inspeção por líquidos penetrantes \n# Certificado de qualificação para inspetores (nível 1, 2 ou 3)",
+                "ES": "Ensayos de inspección por líquidos penetrantes # Certificado de cualificación para inspectores (nivel 1, 2 o 3)"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "6.2.2",
+              "title": {
+                "PT-BR": "Ensaio ultrassónico\n# Teste de qualificação como examinador (nível 1, 2 ou 3)",
+                "ES": "Ensayo ultrasónico\n# Prueba de cualificación como examinador (nivel 1, 2 o 3)"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "6.2.3",
+              "title": {
+                "PT-BR": "Ensaio radiográfico\n# Teste de qualificação como examinador (nível 1, 2 ou 3)\n# Teste de qualificação",
+                "ES": "Ensayo radiográfico\n# Prueba de cualificación como examinador (nivel 1, 2 o 3)\n# Prueba de cualificación"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "6.2.4",
+              "title": {
+                "PT-BR": "Prova de qualificação como inspetor visual VT (soldagem)",
+                "ES": "Prueba de cualificación como inspector visual VT (soldaduras)"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "6.2.5",
+              "title": {
+                "PT-BR": "Ensaio de partículas magnéticas\n# Examinador de ensaios de qualificação",
+                "ES": "Ensayo de partículas magnéticas\n# Examinador de ensayos de cualificación"
+              },
+              "weight": 20.0
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": {
+            "PT-BR": "Teste de pressão",
+            "ES": "Prueba de presión"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "6.3.1",
+              "title": {
+                "PT-BR": "Ensaio de pressão de acordo com as especificações técnicas",
+                "ES": "Ensayo de presión según especificación técnica"
+              },
+              "weight": 100.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "weight": 20.0,
+      "title": {
+        "PT-BR": "Documentação de saldagem (modelo a ser preenchido na obra)",
+        "ES": "Documentación"
+      },
+      "groups": [
+        {
+          "id": "7.1",
+          "title": {
+            "PT-BR": "Tipos",
+            "ES": "Tipos"
+          },
+          "weight": 1,
+          "questions": [
+            {
+              "id": "7.1.1",
+              "title": {
+                "PT-BR": "Relatórios de ensaios de pressão",
+                "ES": "Informes de ensayos de presión"
+              },
+              "weight": 15.0
+            },
+            {
+              "id": "7.1.2",
+              "title": {
+                "PT-BR": "Classificação de acordo com a Diretiva de Equipamentos sob Pressão",
+                "ES": "Clasificación según la Directiva de Equipos a Presión"
+              },
+              "weight": 20.0
+            },
+            {
+              "id": "7.1.3",
+              "title": {
+                "PT-BR": "Relatórios de aceite",
+                "ES": "Informes de aceptación"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "7.1.4",
+              "title": {
+                "PT-BR": "Produtos soldados",
+                "ES": "Productos soldados"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "7.1.5",
+              "title": {
+                "PT-BR": "Isométricos",
+                "ES": "Isometrías"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "7.1.6",
+              "title": {
+                "PT-BR": "Planos da obra executada",
+                "ES": "Planos de obra ejecutada"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "7.1.7",
+              "title": {
+                "PT-BR": "Imagens endoscópicas",
+                "ES": "Imágenes endoscópicas"
+              },
+              "weight": 10.0
+            },
+            {
+              "id": "7.1.8",
+              "title": {
+                "PT-BR": "Documentação",
+                "ES": "Doku"
+              },
+              "weight": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
