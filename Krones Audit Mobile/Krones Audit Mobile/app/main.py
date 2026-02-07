@@ -91,7 +91,21 @@ class AuditoriaApp(MDApp):
 
     def on_start(self):
         # Agora self.root já existe; aqui é seguro tocar na árvore de widgets
+        self._request_android_permissions()
         self.update_scores_ui()
+
+    def _request_android_permissions(self):
+        if platform != "android":
+            return
+        try:
+            from android.permissions import Permission, request_permissions
+
+            request_permissions([
+                Permission.READ_EXTERNAL_STORAGE,
+                Permission.WRITE_EXTERNAL_STORAGE,
+            ])
+        except Exception as exc:
+            print(f"[PERMISSION WARNING] Não foi possível solicitar permissões: {exc}")
 
 
     def build_tabs(self, tabs):
